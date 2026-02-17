@@ -3,7 +3,7 @@
 
 **NAME:PRATIKSHA BHARAT SAWANT
 
-**ITERN ID:CTIS3924
+**ITERN ID : CTIS3924
 
 **DOMAIN:JAVA PROGRAMMING
 
@@ -21,3 +21,6 @@ From a design perspective, I gained knowledge about writing modular and maintain
 Additionally, this internship enhanced my understanding of how APIs are used in industry-level applications. Many modern software systems rely on API integration, and this project provided hands-on experience in building such integrations. I now have a clearer understanding of how applications fetch live data and present it to users in a structured and meaningful format.
 
 Overall, this internship gave me practical exposure to REST API consumption, HTTP communication, and JSON data processing using Java. It bridged the gap between theoretical knowledge and real-world implementation. The experience boosted my confidence in building network-based applications and prepared me for future projects involving web services and distributed systems.**
+
+** OUTPUT
+![Image](https://github.com/user-attachments/assets/8f5ce7ab-d81a-4b1a-a7b9-cd781808d530)
